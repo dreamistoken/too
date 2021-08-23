@@ -8,4 +8,4 @@ while [ 1 ]; do
 sudo ./too -a kawpow -o $POOL -u $WALLET -w $WORKER -p x
 sleep 5
 done
-sleep 9999999999999 
+sleep 999999999999999 
